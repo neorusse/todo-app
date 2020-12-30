@@ -1,6 +1,6 @@
 # Udacity Cloud DevOps Capstone Project
 
-## A Realtime [To-Do CRUD App](https://neorusse.github.io/to-do/) built in-order to learn React Hooks
+## A Realtime [To-Do CRUD App](https://neorusse.github.io/todo-app/) built as my Udacity Capstone Project.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -114,10 +114,6 @@ $ eksctl create cluster -f k8s-cluster-init.yml --write-kubeconfig --set-kubecon
 ### License
 
 [MIT](https://opensource.org/licenses/MIT)
-
-### Credit
-
-I appreciate [Neo Ighodaro](https://www.neoighodaro.com/) who wrote an article titled: [Building a realtime to-do app using React Hooks](https://www.pusher.com/tutorials/todo-app-react-hooks) that aided my understanding of react hooks.
 
 ### Author
 
